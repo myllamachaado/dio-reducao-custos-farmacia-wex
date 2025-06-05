@@ -38,6 +38,13 @@ Amazon RDS - Amazon Relational Database Service
 ## Conclusão
 - A implementação de ferramentas na Empresa Teste tem como esperado redução de custos, escalabilidade automatica e a melhora na segurança, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
+## Anexos
+
+- [Manual de Instalação do Amazon EC2](<https://aws.amazon.com/pt/ec2/getting-started/>)
+- [Documentação do Amazon RDS](<https://docs.aws.amazon.com/pt_br/rds/?id=docs_gateway>)
+- [Guia de Armazenamento no Amazon S3](<https://aws.amazon.com/pt/s3/>)
+
+
 ### Assinatura do Responsável pelo Projeto:
 
 Ludmila Machado
